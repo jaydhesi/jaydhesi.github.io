@@ -1,2 +1,2 @@
 # jaydhesi.github.io
-theme: slate
+theme: Slate
