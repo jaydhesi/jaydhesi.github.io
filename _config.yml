@@ -1,5 +1,0 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Jay Dhesi
-#description: Extensive programming and data analysis experience including several research projects using C++, Matlab, Python and Julia. Excellent grasp of theoretical machine learning and experience in the practical implementations of the algorithms involved. Particular expertise in the field of topological data analysis.
